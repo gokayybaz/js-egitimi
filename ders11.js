@@ -26,3 +26,5 @@ let userManager = {
     }
 }
 
+console.log(userManager.addUser())
+
